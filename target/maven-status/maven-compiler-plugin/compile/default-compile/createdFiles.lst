@@ -1,0 +1,13 @@
+com\mycompany\producto\CalculadorDePrecioPorCategoria.class
+com\mycompany\producto\Descuento.class
+com\mycompany\producto\Proveedor.class
+com\mycompany\producto\Main.class
+com\mycompany\producto\CalculadorDePrecioConDescuento.class
+com\mycompany\producto\ProductoElectronico.class
+com\mycompany\producto\Producto.class
+com\mycompany\producto\ProductoAlimenticio.class
+com\mycompany\producto\CalculadorDePrecio.class
+com\mycompany\producto\CalculadorDePrecioSinDescuento.class
+com\mycompany\producto\GestorDeInventario.class
+com\mycompany\producto\Categoria.class
+com\mycompany\producto\GestorDeDescuentos.class
